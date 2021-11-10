@@ -1,1 +1,1 @@
-# VCFSimulator
+This project includes algorithms and source codes to simulate genotypes in VCF format to examine the performance of RUNNER. To keep the distribution of rare mutations, it does not simulate genotypes of all variants. Instead, it randomly samples genotypes input reference samples and only simulates genotypes at specified variants.
